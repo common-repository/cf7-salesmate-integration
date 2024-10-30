@@ -1,0 +1,14 @@
+#dealsalesmate_stage option {
+  display: none;
+}
+.salesmate-field-label{
+  float: left;
+  width: 120px;
+}
+.logData table{border: 1px solid #000;}
+.logtitle{font-size: 24px;}
+.logData table{padding-top:0px;}
+.logData table tr th{background:#e5e5e5;}
+.logData table tr th,.logData table tr td{padding: 10px 40px;text-align: center;}
+.logData table tbody tr{border-bottom: 1px solid #ccc;}
+.logform .logclear{margin-top: 10px;}
